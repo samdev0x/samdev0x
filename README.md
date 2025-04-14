@@ -22,12 +22,12 @@ Right now I'm focused on leveling up my fullstack skills, improving how I write 
 - **Pump.fun Sniping Bot** *(private repo)*  
   Built for speed and reaction time — tracks Solana memecoins and submits transactions in real time.
 
-- **Coinflip Telegram Mini App (TMA)** *(fully functional game)*  
+- **[Coinflip Telegram Mini App (TMA)](https://github.com/samdev0x/Coinflip-TMA)** *(fully functional game)*  
   A heads-or-tails coinflip game built entirely as a Telegram Mini App using React.  
   Users can log in via Telegram, place bets with virtual points, and earn rewards through gameplay and referrals.  
   User data like profiles, wagers, points, referrals and outcome is stored securely using Firebase.
 
-- **Twitter AI Agent** *(private repo)*  
+- **[Twitter AI Agent](https://github.com/samdev0x/Twitter-ai-bot)** *(private repo)*  
   Fully autonomous content agent using an LLM + Twitter API to generate and post tweets around the clock.
 
 ---
