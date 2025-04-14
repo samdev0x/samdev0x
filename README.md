@@ -19,8 +19,12 @@ Right now I'm focused on leveling up my fullstack skills, improving how I write 
 - **[CS50x Archive (2024)](https://github.com/samdev0x/cs50x-projects)**  
   Includes full coursework and final project: a Flask-based nutrition & recipe tracker using the Edamam API.
 
-- **Pump.fun Sniping Bot** *(private repo)*  
-  Built for speed and reaction time — tracks Solana memecoins and submits transactions in real time.
+- **[CoinFlip Smart Contract]** *(private repo)*  
+  A TonCoin smart contract written in Tact that powers a provably fair heads-or-tails gambling game.  
+  Features include verifiable randomness, sequential bet processing with dynamic batch sizing, 
+  automated payouts, and comprehensive safety measures to guarantee contract solvency.  
+  Rigorously tested with 20+ test cases covering all critical paths, edge cases, and security scenarios,
+  achieving 100% test coverage with full passing suite. Gas-optimized for efficient execution on TON blockchain.
 
 - **[Coinflip Telegram Mini App (TMA)](https://github.com/samdev0x/Coinflip-TMA)** *(fully functional game)*  
   A heads-or-tails coinflip game built entirely as a Telegram Mini App using React.  
