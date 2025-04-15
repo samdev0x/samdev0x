@@ -9,7 +9,7 @@ Right now I'm focused on leveling up my fullstack skills, improving how I write 
 
 ### 🧠 Languages & Tech
 
-- **JavaScript**, **Python**, **Solidity**, **HTML**, **CSS**, **SQL**
+- **JavaScript**, **Python**, **Solidity**, **HTML**, **CSS**, **SQL**, **Tact**
 - Comfortable working with smart contracts, APIs, and real-world automation logic
 
 ---
