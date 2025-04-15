@@ -20,11 +20,11 @@ Right now I'm focused on leveling up my fullstack skills, improving how I write 
   Includes full coursework and final project: a Flask-based nutrition & recipe tracker using the Edamam API.
 
 - **[CoinFlip Smart Contract]** *(private repo)*  
-  A TonCoin smart contract written in Tact that powers a provably fair heads-or-tails gambling game.  
-  Features include verifiable randomness, sequential bet processing with dynamic batch sizing, 
-  automated payouts, and comprehensive safety measures to guarantee contract solvency.  
+  A TonCoin smart contract written in Tact that powers a verifiable heads-or-tails gambling game.
+  Features include transparent randomness generation, sequential bet processing with dynamic batch sizing,
+  automated payouts, and comprehensive safety measures to guarantee contract solvency.
   Rigorously tested with 20+ test cases covering all critical paths, edge cases, and security scenarios,
-  achieving 100% test coverage with full passing suite. Gas-optimized for efficient execution on TON blockchain.
+  achieving 100% test coverage with a fully passing suite. Gas-optimized for efficient execution on the TON blockchain.
 
 - **[Coinflip Telegram Mini App (TMA)](https://github.com/samdev0x/Coinflip-TMA)** *(fully functional game)*  
   A heads-or-tails coinflip game built entirely as a Telegram Mini App using React.  
